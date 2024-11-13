@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveAndNegative", "PositiveAndNegative\PositiveAndNegative.csproj", "{55F9CBD2-21E7-4CB7-9C09-9DEA4BF3477F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestIsPositive", "UnitTestIsPositive\UnitTestIsPositive.csproj", "{D34AEC59-FF50-4FE3-982B-F5911D4FA048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F9CBD2-21E7-4CB7-9C09-9DEA4BF3477F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F9CBD2-21E7-4CB7-9C09-9DEA4BF3477F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F9CBD2-21E7-4CB7-9C09-9DEA4BF3477F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F9CBD2-21E7-4CB7-9C09-9DEA4BF3477F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34AEC59-FF50-4FE3-982B-F5911D4FA048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34AEC59-FF50-4FE3-982B-F5911D4FA048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34AEC59-FF50-4FE3-982B-F5911D4FA048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34AEC59-FF50-4FE3-982B-F5911D4FA048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBFB6661-422B-4128-9CCC-D5797CB2A381}
+	EndGlobalSection
+EndGlobal
